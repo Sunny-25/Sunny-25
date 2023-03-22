@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Potturi</h1>
 <h3 align="center">I am a passionate full stack developer from india</h3>
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'width='40vw'/
+<img align='center' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'width='40vw'/
 
 - 🌱 I’m currently learning **Data Structures and Algorithms , Java ,react native.**
 
