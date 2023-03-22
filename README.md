@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **potturipraveen7@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Sunny-25/Resume/blob/main/Praveen%20resume.pdf](https://github.com/Sunny-25/Resume/blob/main/Praveen%20resume.pdf)
+- 📄 Know about my experiences [github.com/Sunny-25/Resume/blob/main/Praveen%20resume.pdf](https://github.com/Sunny-25/Resume/blob/main/Praveen%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
