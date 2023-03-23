@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate full stack developer from india</h3>
 <img align="right" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' width="400"/
 
-- 🌱 I’m currently learning **Data Structures and Algorithms , Java ,react native.**
+- 🌱 I’m currently learning **DSA , Java ,react native.**
 
 - 👨‍💻 All of my projects are available at [praveen-personal.netlify.app](praveen-personal.netlify.app)
 
